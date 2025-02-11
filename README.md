@@ -1,4 +1,28 @@
-## Hi there 👋
+# BIO
+
+
+## Introduction
+
+Hello! My name is Owen Bales. I am a Junior at University of Tennessee majoring in Geographic Information Sciences and Technology. 
+
+
+## Interests and Hobbies
+
+Remote Sensing
+Terrain Analysis
+LiDAR technology
+Activist Programming
+Music and my guitars
+
+
+## Skills and Expertise
+
+Python, C#, C++, Java
+ArcGIS, Pix4D, QGIS
+Microsoft Office
+
+
+## Social Media Links
 
 <!--
 **GISCreations/GISCreations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
