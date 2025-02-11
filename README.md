@@ -23,7 +23,7 @@ Microsoft Office
 
 
 ## Social Media Links
-https://www.linkedin.com/in/owen-bales-7492a7215/
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/owen-bales-7492a7215/)
 <!--
 **GISCreations/GISCreations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
