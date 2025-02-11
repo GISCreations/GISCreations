@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Hello! My name is Owen Bales. I am a Junior at University of Tennessee majoring in Geographic Information Sciences and Technology. 
+Hello! My name is Owen Bales. I am a Junior at University of Tennessee majoring in Geographic Information Sciences and Technology. I focus on remote sensing to measure vegetation and terrain changes.
 
 
 ## Interests and Hobbies
